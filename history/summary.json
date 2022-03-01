@@ -22,17 +22,17 @@
     "url": "https://follow-my-dream.slash-dev.de/",
     "icon": "https://favicons.githubusercontent.com/follow-my-dream.slash-dev.de",
     "slug": "reise-ins-unbekannte",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 765,
-    "timeDay": 671,
-    "timeWeek": 671,
-    "timeMonth": 671,
-    "timeYear": 765,
+    "time": 769,
+    "timeDay": 1244,
+    "timeWeek": 1244,
+    "timeMonth": 1244,
+    "timeYear": 769,
     "dailyMinutesDown": {}
   }
 ]
