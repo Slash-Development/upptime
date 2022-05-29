@@ -4,7 +4,7 @@
     "url": "https://slash-dev.de",
     "icon": "https://favicons.githubusercontent.com/slash-dev.de",
     "slug": "slash-development",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 902,
     "timeDay": 1145,
-    "timeWeek": 887,
+    "timeWeek": 915,
     "timeMonth": 865,
     "timeYear": 902,
     "dailyMinutesDown": {}
